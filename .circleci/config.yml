@@ -11,3 +11,4 @@ workflows:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
+<iframe src="https://giphy.com/embed/11TN3gkseh4Vos" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/11TN3gkseh4Vos">via GIPHY</a></p>
